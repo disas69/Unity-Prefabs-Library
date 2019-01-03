@@ -1,0 +1,1 @@
+namespace Assets.Scripts.Framework.Editor.Grid{    public interface IGridFilter    {        bool Match(IGridItemContent entry);        void Draw();        void Reset();    }}
