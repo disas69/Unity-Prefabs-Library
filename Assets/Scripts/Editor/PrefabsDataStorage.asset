@@ -12,4 +12,47 @@ MonoBehaviour:
   m_Name: PrefabsDataStorage
   m_EditorClassIdentifier: 
   SelectedLabels: []
-  PrefabsData: []
+  PrefabsData:
+  - GameObject: {fileID: 1619683811315264, guid: a6799823afd90a746a340f2f8d4df050,
+      type: 2}
+    PrefabName: Gift
+    Labels:
+    - Christmas
+    - Gift
+    IsSaved: 1
+  - GameObject: {fileID: 1204394237075072, guid: 0063a703ec32975469b8808003e1b865,
+      type: 2}
+    PrefabName: Gifts
+    Labels:
+    - Christmas
+    - Gift
+    IsSaved: 1
+  - GameObject: {fileID: 1893700349309396, guid: 35747171ea35ff440bfbd7c7dbe0bd13,
+      type: 2}
+    PrefabName: Gifts 1
+    Labels:
+    - Christmas
+    - Gift
+    IsSaved: 1
+  - GameObject: {fileID: 1870831579651918, guid: e8f31801367961c49aecf78811341ca0,
+      type: 2}
+    PrefabName: Penguin
+    Labels:
+    - Character
+    - Christmas
+    IsSaved: 1
+  - GameObject: {fileID: 1140102872050480, guid: 6ae7a109e6fcf554b955ad01a1fe1076,
+      type: 2}
+    PrefabName: Snowman
+    Labels:
+    - Character
+    - Christmas
+    IsSaved: 1
+  - GameObject: {fileID: 1680034409959058, guid: 99af028a02f751c41923a33371fc13a7,
+      type: 2}
+    PrefabName: Tree
+    Labels:
+    - Christmas
+    - Tree
+    - Vegetation
+    IsSaved: 1
